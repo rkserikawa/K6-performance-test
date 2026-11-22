@@ -1,5 +1,5 @@
-# cypress-automation-test
-Projeto de automação de testes e2e e API's com integração a um CI/CD configurado para gerar relatórios de execução no Cypress Cloud e mochawesome-reporter.
+# K6-performance-test
+Projeto de testes de performance com K6
 
 ## Arquitetura de Pastas
 ```
