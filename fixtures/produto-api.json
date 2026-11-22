@@ -1,0 +1,37 @@
+{
+  "produtos": [
+    {
+      "name": "Quantum SSD 1TB B",
+      "category": "Audio",
+      "price": 119.91
+    },
+    {
+      "price": 129.99,
+      "category": "Peripherals",
+      "stock": 15
+    },
+    {
+      "name": "HyperX Keyboard",
+      "category": "Peripherals",
+      "stock": 15
+    },
+    {
+      "name": "HyperX Keyboard",
+      "price": "",
+      "category": "Peripherals",
+      "stock": 15
+    },
+    {
+      "name": "",
+      "price": 155,
+      "category": "Peripherals",
+      "stock": 15
+    },
+    {
+      "name": "Logitech G305",
+      "price": 79.99,
+      "category": "Peripherals",
+      "stock": 18
+    }
+  ]
+}
